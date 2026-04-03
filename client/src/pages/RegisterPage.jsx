@@ -88,7 +88,7 @@ const RegisterPage = () => {
 
         <div className='d-grid'>
           <Button type='submit' variant='primary' className='mt-3'>
-            Sign In
+            Sign Up
           </Button>
         </div>
 
